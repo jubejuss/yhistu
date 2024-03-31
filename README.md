@@ -1,0 +1,2 @@
+# yhistu
+Yhistu raamatupoidamise repo
