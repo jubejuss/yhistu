@@ -1,2 +1,2 @@
 # yhistu
-Yhistu raamatupoidamise repo
+Yhistu raamatupidamise repo
